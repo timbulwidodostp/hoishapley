@@ -1,5 +1,11 @@
-d 'DEA': Data envelopment analysis
+d 'hoishapley': Shapley Decomposition of the Human Opportunity Index (HOI) Use hoishapley With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f _pecats2.ado
+f catenate.ado
+f catenate.hlp
+f hoi.ado
+f hoi.hlp
+f hoishapley.ado
+f hoishapley.sthlp
+f indeplist.ado
+f indeplist.hlp
