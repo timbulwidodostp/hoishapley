@@ -1,6 +1,8 @@
 # hoishapley
 Shapley Decomposition of the Human Opportunity Index (HOI) Use hoishapley With STATA 18
 
+https://www.youtube.com/watch?v=mmH3ctKPuFE
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
